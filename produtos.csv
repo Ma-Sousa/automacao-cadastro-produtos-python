@@ -1,0 +1,31 @@
+codigo,marca,tipo,categoria,preco_unitario,custo,obs
+BEBI0001,Coca-Cola,Refrigerante,1,6.50,3.00,
+BEBI0002,Pepsi,Refrigerante,2,5.99,2.80,Promo do fornecedor
+BEBI0003,Guarana Antarctica,Refrigerante,1,6.29,2.95,
+BEBI0004,Schweppes,Agua tonica,2,7.90,3.80,
+ALIM0001,Nestle,Achocolatado,1,9.90,4.60,
+ALIM0002,Quaker,Aveia,1,7.49,3.20,
+ALIM0003,Heinz,Ketchup,2,15.90,9.10,
+ALIM0004,Hellmanns,Maionese,2,16.50,9.50,Verificar lote
+GRAO0001,Camil,Arroz,1,26.90,18.20,
+GRAO0002,Urbano,Feijao,1,9.90,6.30,
+GRAO0003,Yoki,Farofa,2,8.50,4.90,
+GRAO0004,Renata,Macarrao,1,5.99,3.20,
+LATI0001,Piracanjuba,Leite UHT,1,4.79,3.20,
+LATI0002,Nestle,Iogurte,2,5.50,3.10,Manter refrigerado
+LATI0003,Itambe,Creme de leite,1,4.29,2.50,
+LATI0004,Parmalat,Leite UHT,2,4.99,3.30,
+HIGI0001,Dove,Sabonete,1,5.49,2.30,
+HIGI0002,Nivea,Sabonete,2,6.29,2.80,Conferir estoque
+HIGI0003,Colgate,Creme dental,1,8.90,4.10,
+HIGI0004,Johnson's,Shampoo,2,18.90,10.20,
+LIMP0001,Ype,Detergente,1,2.99,1.10,
+LIMP0002,Veja,Multiuso,2,11.90,6.20,
+LIMP0003,Omo,Sabao em po,2,24.90,14.00,Produto premium
+LIMP0004,Downy,Amaciante,2,19.90,11.50,
+PAPE0001,Tilibra,Caderno,1,19.90,10.00,
+PAPE0002,Faber-Castell,Caneta,2,4.50,1.60,
+PAPE0003,Bic,Caneta,1,3.50,1.20,
+PAPE0004,Post-it,Bloco adesivo,2,18.00,10.90,
+ELEC0001,Multilaser,Mouse,1,39.90,22.00,
+ELEC0002,Logitech,Mouse,2,129.90,75.00,Alta demanda
