@@ -25,10 +25,10 @@ Os dados são lidos a partir de um arquivo CSV (`produtos.csv`) e o preenchiment
 
 ## 📁 Estrutura do projeto
 projeto/
-main.py
-pegar_posicao_mouse.py
-produtos.csv
-requirements.txt
+  main.py
+  pegar_posicao_mouse.py
+  produtos.csv
+  requirements.txt
 
 
 
